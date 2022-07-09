@@ -6,8 +6,8 @@
  
  ![gif demo](https://github.com/bouakram/find-me-v2/blob/master/gif.gif)
  
- i used  ![Vanta Js](https://www.vantajs.com/?effect=birds) for the animated background.
+ i used [Vanta Js](https://www.vantajs.com/?effect=birds) for the animated background.
  
- i used ![TAilwindcss](https://tailwindcss.com/) for the ui styling.
+ i used [TAilwindcss](https://tailwindcss.com/) for the ui styling.
  
  
