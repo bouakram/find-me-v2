@@ -2,7 +2,7 @@
  
  this is a 'link in bio' page for Instagram or twitter or any sociale media to make people finde u]you easly
  
- ![find me !](/ "Boughazi Akram")
+ [find me !](https://sage-alfajores-3031f8.netlify.app/ "Boughazi Akram")
  
  ![gif demo](https://github.com/bouakram/find-me-v2/blob/master/gif.gif)
  
