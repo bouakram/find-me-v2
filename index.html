@@ -17,18 +17,28 @@
     <script>
         window.addEventListener("DOMContentLoaded", ()=>{
             VANTA.WAVES({
-  el: "#your-element-selector",
-  mouseControls: true,
-  touchControls: true,
-  gyroControls: false,
-  minHeight: 200.00,
-  minWidth: 200.00,
-  scale: 1.00,
-  scaleMobile: 1.00
+            el: "#vanta",
+            mouseControls: true,
+            touchControls: true,
+            gyroControls: false,
+            minHeight: 200.00,
+            minWidth: 200.00,
+            scale: 1.00,
+            scaleMobile: 1.00,
+            shininess: 42.00,
+            waveHeight: 21.00,
+            zoom: 0.71
             })
         })
     </script>
 </head>
+<!-- <style>
+    body{
+        background-image: url("img/FOREST_warped.jpg");
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style> -->
 <body id="vanta">
     <div class="conrtaner max-w-md bg-white/10 rounded-3xl backdrop-blur-sm  p-4 absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2">
         <header class="flex justify-center mb-4">
